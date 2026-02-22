@@ -7,7 +7,7 @@ This system supports user registration, KYC submission, document upload, automat
 
 # 🎥 Demo Video
 
-> 📌 Demo video link (to be added)
+> 📌 Demo video link 
 
 ```
 https://youtu.be/EW1dtgmaYqM
