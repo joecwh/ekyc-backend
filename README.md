@@ -33,6 +33,11 @@ The system is designed to mimic compliance-grade identity verification flows.
 
 # 🏗 System Architecture
 
+> 📌 System Design Link
+```
+https://drive.google.com/file/d/158gXx75-SuFtoFoaeRAgacOh9vBH_2mF/view?usp=sharing
+```
+
 ```
 User → Submit KYC → Upload Documents → Submit
         ↓
